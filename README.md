@@ -9,5 +9,6 @@ Currently, I focus on learning new knowledge related to front-end development in
 * 💻 HTML/CSS & JavaScript
 * 📚 English - B1
 
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/maksym-romanyshak-05447b270//)  
 
