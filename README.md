@@ -3,7 +3,7 @@
 # Maksym Romanyshak
 I am a second-year software engineering student, future front-end developer, with 2 years of experience in web development. I am eager to apply my knowledge to real-world projects.
 
-Currently, I expand my skillset to build up-to-date and user-friendly websites. My usual area of work involves HTML/CSS and JavaScript, and I possess some familiarity with React.js.s.
+Currently, I expand my skillset to build up-to-date and user-friendly websites. My usual area of work involves HTML/CSS and JavaScript, and I possess some familiarity with React.js.
 
 I would love to hear from you if you are looking for a motivated and aspiring Front-End Developer or JavaScript intern.
 
