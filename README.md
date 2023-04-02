@@ -6,8 +6,8 @@ I'm Maksym from Ukraine and I am a motivated Front-End Developer willing to deve
 Currently, I focus on learning new knowledge related to front-end development in order to expand my skillset and tackle new challenges. I typically use HTML/CSS and JavaScript, and I also have some experience with React.js.
 
 ## Skills and Experience:
-*💻 HTML/CSS & JavaScript
-*📚 English - B1
+* 💻 HTML/CSS & JavaScript
+* 📚 English - B1
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maksym-romanyshak-05447b270//)  
 
