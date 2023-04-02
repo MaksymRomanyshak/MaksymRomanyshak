@@ -5,6 +5,8 @@ I am a second-year software engineering student, future front-end developer, wit
 
 Currently, I expand my skillset to build up-to-date and user-friendly websites. My usual area of work involves HTML/CSS and JavaScript, and I possess some familiarity with React.js.s.
 
+I would love to hear from you if you are looking for a motivated and aspiring Front-End Developer or JavaScript intern.
+
 ## Skills and Experience:
 * 💻 HTML/CSS & JavaScript
 * 📚 English - B1
