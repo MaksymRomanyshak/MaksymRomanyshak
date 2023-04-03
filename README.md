@@ -10,7 +10,12 @@ I am eager to apply my knowledge to real-world projects and collaborate with exp
 * 📚 English - B1 (Intermediate)
 
 ## Projects
-### Guess My Number
+### [Guess My Number](https://github.com/MaksymRomanyshak/GuessMyNumber)
+Description: The goal of the game is to guess a secret number which is between 1 and 20.
+### [Modal](https://github.com/MaksymRomanyshak/Modal)
+Description: This is a JavaScript simple UI component that creates a modal window that can be opened and closed with buttons, as well as by pressing the 'Escape' key or clicking outside the modal window.
+### [Pig Game](https://github.com/MaksymRomanyshak/PigGame)
+*Description: The game has two players, and each player takes turns rolling a dice. The player accumulates points for each roll, and can choose to "hold" and keep their points or "roll" again to try to accumulate more points. If a player rolls a "1" on the dice, they lose all their points for that turn and the next player takes their turn. The first player who reaches 100 points wins the game.*
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/maksym-romanyshak-05447b270//)  
 
