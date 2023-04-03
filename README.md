@@ -7,7 +7,7 @@ I am eager to apply my knowledge to real-world projects and collaborate with exp
 
 ## Skills and Experience:
 * 💻 HTML/CSS & JavaScript
-* 📚 English - B1
+* 📚 English - B1 (Intermediate)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/maksym-romanyshak-05447b270//)  
 
