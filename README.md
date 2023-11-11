@@ -1,5 +1,3 @@
-![Software Development](https://media.licdn.com/dms/image/D4E16AQGZyAkfhx0Jnw/profile-displaybackgroundimage-shrink_350_1400/0/1680433029314?e=1691625600&v=beta&t=jD3QWBESCQJfSSpiyYn4kORLzydgoIVv2okMD6Krjvc)
-
 # Maksym Romanyshak
 I am a second-year software engineering student and future front-end web developer. By now, I have gained a solid foundation in JavaScript through various courses, self-study, and university. I am currently expanding my skillset to build modern, user-friendly websites. I mostly use HTML/CSS and JavaScript. Additionally, I have experience working with React and Node.js, and I also have some familiarity with Express.
 
