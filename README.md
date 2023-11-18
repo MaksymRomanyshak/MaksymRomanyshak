@@ -4,7 +4,7 @@ Hi 👋 My name is Maksym
 Frontend Developer
 ------------------
 
-Ambitious third-year Software Engineering student with a passion for frontend web development, equipped with a solid foundation in JavaScript gained through 
+Ambitious third-year Software Engineering student with a passion for frontend web development, equipped with a robust foundation in JavaScript gained through 
 various online courses and self-study. Currently, I primarily use HTML/CSS and JavaScript, with experience working on projects involving React and Node.js, and a basic understanding of Express.
 
 I am seeking an opportunity to contribute to real-world projects and collaborate with seasoned developers while continually expanding my skill set to build modern, user-friendly websites.
